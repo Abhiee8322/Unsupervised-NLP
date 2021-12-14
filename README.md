@@ -11,19 +11,19 @@ In this project I have performed unsupervized learning on the given textual data
 Imported neccessary libraries.<br/>
 Load the data<br/>
 Basic inspection of the data.<br/>
-Text cleaning(Removed punctuation, whitespaces, lowercase the text).
-Text Pre-Processing(Removed stopwords, tokenisation, lemmatization)
-Copying the cleaned data into a variable
-Data vizualization
-Plotted Word-cloud
-Plotted most occuring words/log-log plot.
-Converted the words into vector using TF-IDF vectorizer.
-Graph of summary of silhoutte score obtained from the clustering models.
-Kmeans clustering.
-Checking the number of clusters using elbow method and silhoutte graph.
-Model validation and generating cluster labels.
-Summary of data points in different clusters.
-retrieving data based upon cluster made.
-Cluster labelling.
-DBSCAN model and its optimization
-Birch model
+Text cleaning(Removed punctuation, whitespaces, lowercase the text).<br/>
+Text Pre-Processing(Removed stopwords, tokenisation, lemmatization)<br/>
+Copying the cleaned data into a variable<br/>
+Data vizualization<br/>
+Plotted Word-cloud<br/>
+Plotted most occuring words/log-log plot.<br/>
+Converted the words into vector using TF-IDF vectorizer.<br/>
+Graph of summary of silhoutte score obtained from the clustering models.<br/>
+Kmeans clustering.<br/>
+Checking the number of clusters using elbow method and silhoutte graph.<br/>
+Model validation and generating cluster labels.<br/>
+Summary of data points in different clusters.<br/>
+retrieving data based upon cluster made.<br/>
+Cluster labelling.<br/>
+DBSCAN model and its optimization<br/>
+Birch model<br/>
