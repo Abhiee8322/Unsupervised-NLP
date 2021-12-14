@@ -9,21 +9,21 @@ Commonly available text can not be directly used for analysis, it needs to pre-p
 In this project I have performed unsupervized learning on the given textual data. Following are the steps taken:<br/>
 
 Imported neccessary libraries.<br/>
-Load the data<br/>
-Basic inspection of the data.<br/>
-Text cleaning(Removed punctuation, whitespaces, lowercase the text).<br/>
-Text Pre-Processing(Removed stopwords, tokenisation, lemmatization)<br/>
-Copying the cleaned data into a variable<br/>
-Data vizualization<br/>
-Plotted Word-cloud<br/>
-Plotted most occuring words/log-log plot.<br/>
-Converted the words into vector using TF-IDF vectorizer.<br/>
-Graph of summary of silhoutte score obtained from the clustering models.<br/>
-Kmeans clustering.<br/>
-Checking the number of clusters using elbow method and silhoutte graph.<br/>
-Model validation and generating cluster labels.<br/>
-Summary of data points in different clusters.<br/>
-retrieving data based upon cluster made.<br/>
-Cluster labelling.<br/>
-DBSCAN model and its optimization<br/>
-Birch model<br/>
+1. Load the data<br/>
+2. Basic inspection of the data.<br/>
+3. Text cleaning(Removed punctuation, whitespaces, lowercase the text).<br/>
+4. Text Pre-Processing(Removed stopwords, tokenisation, lemmatization)<br/>
+5. Copying the cleaned data into a variable<br/>
+6. Data vizualization<br/>
+7. Plotted Word-cloud<br/>
+8. Plotted most occuring words/log-log plot.<br/>
+9. Converted the words into vector using TF-IDF vectorizer.<br/>
+10. Graph of summary of silhoutte score obtained from the clustering models.<br/>
+11. Kmeans clustering.<br/>
+12. Checking the number of clusters using elbow method and silhoutte graph.<br/>
+13. Model validation and generating cluster labels.<br/>
+14. Summary of data points in different clusters.<br/>
+15. retrieving data based upon cluster made.<br/>
+16. Cluster labelling.<br/>
+17. DBSCAN model and its optimization<br/>
+18. Birch model<br/>
